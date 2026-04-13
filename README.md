@@ -12,5 +12,4 @@
 todo.html
 todo.css
 todo.js
-
 ```
